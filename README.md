@@ -3,7 +3,7 @@
 HORIseoN is a website for a marketing agency specializing in improving online traffic for other clients websites.
 
 <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="SEO" />
-# SEO image fromm my project
+# SEO image from my project
 
 # Built With
 
